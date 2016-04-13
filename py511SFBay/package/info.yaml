@@ -1,0 +1,35 @@
+name: py511SFBay
+include: /System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/package-py/my-info.yaml
+
+
+#----------------------------------------------------------------------------#
+# The remaining values can usually be pulled from your layout.
+# You can specify/override them manually here.
+#----------------------------------------------------------------------------#
+
+## Short package description. Default is first doc line of main module.
+description: An interface with the 511 Real Time Departures api in the SF Bay area.
+
+# The current version number of this Python Package...
+version: 0.0.1
+
+# The file containing the long description. Default is README*.
+#long_description_from: ../README*
+
+## The url of a website for your Python Package
+# url: http://yourpackage.example.com
+
+## A list of directories to descend to determine packages. Default is 'name'.
+# packages_from:
+
+## A list of all the modules to distribute.
+# py_modules: []
+
+## A list of all the module package directories to distribute.
+# packages: []
+
+## A list of script files to install. Default is bin/*
+# scripts: []
+
+## A list of dependency packages (from PyPi)
+# install_requires: []

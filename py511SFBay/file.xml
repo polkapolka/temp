@@ -1,0 +1,37 @@
+<RTT>
+<AgencyList>
+<Agency Name="AC Transit" HasDirection="True" Mode="Bus">
+</Agency>
+
+<Agency Name="BART" HasDirection="False" Mode="Rail">
+</Agency>
+
+<Agency Name="Caltrain" HasDirection="True" Mode="Rail">
+</Agency>
+
+<Agency Name="Dumbarton Express" HasDirection="True" Mode="Bus">
+</Agency>
+
+<Agency Name="LAVTA" HasDirection="True" Mode="Bus">
+</Agency>
+
+<Agency Name="Marin Transit" HasDirection="True" Mode="Bus">
+</Agency>
+
+<Agency Name="SamTrans" HasDirection="True" Mode="Bus">
+</Agency>
+
+<Agency Name="SF-MUNI" HasDirection="True" Mode="Bus">
+</Agency>
+
+<Agency Name="Vine (Napa County)" HasDirection="True" Mode="Bus">
+</Agency>
+
+<Agency Name="VTA" HasDirection="True" Mode="Bus">
+</Agency>
+
+<Agency Name="WESTCAT " HasDirection="True" Mode="Bus">
+</Agency>
+
+</AgencyList>
+</RTT>
